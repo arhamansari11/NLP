@@ -1,3 +1,3 @@
-# StreamLit
+# Natural Language Processing
 
-## StreamLit for UI and using different API key's in the backend
+## NLP
